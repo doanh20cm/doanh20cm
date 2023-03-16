@@ -1,8 +1,11 @@
 # <div align="center">Hi there 👋</div>  
 
-### <div align="center">I'm doanh20cm!</div>  
+### <div align="center">I'm doanh20cm!</div> 
 
-## &#x1f4c8; GitHub Stats
+
+<br> 
+
+## GitHub Stats
 
 <a href="https://github.com/doanh20cm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doanh20cm&show_icons=true&line_height=27&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical" alt="Doanh's GitHub Stats" />
@@ -23,7 +26,7 @@
 <br>
 <br>
 
-## &#x1f4ca; Top Languages
+## Top Languages
 
 
 <a href="https://github.com/doanh20cm">
