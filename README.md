@@ -2,8 +2,7 @@
 
 ### <div align="center">I'm doanh20cm!</div> 
 
-
-<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/562681394422087680)](https://discord.com/users/562681394422087680)
 
 ## GitHub Stats
 
