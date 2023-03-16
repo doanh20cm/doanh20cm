@@ -10,8 +10,7 @@
 <br>
 
 ## 📌 Pinned Repositories
-<hr>
-<br>
+
 
 <a href="https://github.com/doanh20cm/CNPM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doanh20cm&repo=CNPM&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
